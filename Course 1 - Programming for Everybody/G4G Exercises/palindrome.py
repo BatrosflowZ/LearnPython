@@ -1,6 +1,6 @@
 # Test for plindrome
 
-# Fuction recieves a string and validates if it is a palindrome
+# Function recieves a string and validates if it is a palindrome
 def isPalindrome(word):
     palindrome = False    
     wordLenght = len(word)
