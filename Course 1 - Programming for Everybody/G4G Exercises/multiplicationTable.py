@@ -8,7 +8,6 @@ Created on Mon Apr  7 19:41:51 2025
 def multiplicationTable(multiple):
     
     product = 0
-
     
     for i in range(1, 11, 1):
         product = multiple * i
